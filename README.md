@@ -1,4 +1,4 @@
-# VoxaSystema
+# Voxdot-V2
 
 ## Pictures:
 <img width="1643" height="893" alt="Screenshot 2026-02-25 190617" src="https://github.com/user-attachments/assets/e50ab587-e5a3-425b-9115-873437ccb26a" />
